@@ -1,0 +1,17 @@
+Name of QuantLet : Wellisch_SRMfig2.14
+
+Published in : 
+
+Description : 'Plots Quantile-Quantile map involved four different normal distributions'
+
+Keywords : 'plot, Quantile, normal distribution, Quantile-Quantile, visualization'
+
+See also : 
+
+Author : Wellisch
+
+Submitted :
+
+Datafile : 
+
+Example :
